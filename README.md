@@ -1,2 +1,2 @@
 # cpp
-C++ 
+C++ Academic Projects.
